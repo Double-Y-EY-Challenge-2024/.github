@@ -1,4 +1,4 @@
-# [Team_name]
+# Double Y
 
 This is a central GitHub organization created specifically for the EY Storm Damage Assessment competition. 
 Within this organization, repositories related to the ongoing competition will be hosted. 
